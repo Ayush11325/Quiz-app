@@ -1,0 +1,11 @@
+
+What is the maximum possible length of an identifier?,16,32,64,None of these above,d
+Who developed the Python language?,Zim Den,Guido van Rossum,Niene Stom,Wick van Rossum,b
+In which year was the Python language developed?,1995,1972,1981,1990,d
+What is the method inside the class in python language?,Object,Function,Attribute,Argument,b
+Why does the name of local variables start with an underscore discouraged?,To identify the variable,It confuses the interpreter,It indicates a private variable of a class,None of these,c
+Which one of the following has the same precedence level?,Division, Power, Multiplication, Addition and Subtraction,Division and Multiplication,Subtraction and Division,Power and Division,b
+Which of the following functions is a built-in function in python language?,val(),print(),print(),None of these,b
+What do we use to define a block of code in Python language?,Key,Brackets,Indentation,None of these,c
+Which character is used in Python to make a single line comment?,/,//,#,!,c
+Which of the following statements is correct regarding the object-oriented programming concept in Python?,Classes are real-world entities while objects are not real,Objects are real-world entities while classes are not real,Both objects and classes are real-world entities,All of the above,b
